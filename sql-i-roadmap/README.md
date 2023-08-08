@@ -1,0 +1,1 @@
+Taken from: https://leetcode.com/study-plan/sql/?progress=xc3f2ulc
